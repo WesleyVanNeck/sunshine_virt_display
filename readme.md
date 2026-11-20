@@ -36,7 +36,7 @@ sudo ./install.sh
 Clone the repo:
 
 ```bash
-git clone https://github.com/frostplexx/sunshine_virt_display
+git clone https://github.com/WesleyVanNeck/sunshine_virt_display
 cd sunshine_virt_display
 ```
 
